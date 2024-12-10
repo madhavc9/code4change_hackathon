@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Code4Change</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/jpg" href="hacklogo.png"/>
+</head>
+<body>
+    <section class="container">
+        <header>
+            <h1>Code4Change</h1>
+            <h3>Single Registration</h3>
+        </header>
+        <div id="message" style="display: none;">Registration Successful! We will contact you soon...</div>
+        <form method="POST" name="google-sheet" class="form">
+            <div class="input-box">
+                <label for="first">Your Name</label>
+                <input type="text" id="first" name="Your Name" placeholder="Enter your Name" required>
+            </div>
+            <div class="input-box">
+                <label for="leaderRegNo">Registration No.</label>
+                <input type="text" id="leaderRegNo" name="Registration No." placeholder="Enter your Registration No." required>
+            </div>
+            <div class="input-box">
+                <label for="leaderEmail">VIT Email</label>
+                <input type="email" id="leaderEmail" name="VIT Email" placeholder="Enter your VIT Email" required>
+            </div>
+            <div class="input-box">
+                <label for="leaderPhone">Phone No.</label>
+                <input type="tel" id="leaderPhone" name="Phone No." placeholder="Enter your Phone No." required pattern="[0-9]{10}" title="Please enter a valid 10-digit phone number">
+            </div>
+            <!-- <button type="submit" value="submit" name="submit">Submit</button> -->
+            <button class="button-71" type="submit" value="submit" name="submit" role="button">Submit</button>
+        </form>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>

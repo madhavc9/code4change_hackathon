@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Code4Change</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/jpg" href="hacklogo.png"/>
+</head>
+<body>
+    <section class="container">
+        <header>
+            <h1>Code4Change</h1>
+            <h3>Team Registration</h3>
+        </header>
+        <div id="message">Registration Successful! We will contact you soon...</div>
+        <form method="POST" name="google-sheet" class="form">
+            <div class="input-box">
+                <label for="teamName">Team Name</label>
+                <input type="text" id="teamName" name="Team Name" placeholder="Enter your Team Name" required>
+            </div>
+            <div class="input-box">
+                <label for="first">Team Leader Name</label>
+                <input type="text" id="first" name="Team Leader Name" placeholder="Enter your Name" required>
+            </div>
+            <div class="input-box">
+                <label for="leaderRegNo">Leader Registration No.</label>
+                <input type="text" id="leaderRegNo" name="Leader Registration No." placeholder="Enter your Registration No." required>
+            </div>
+            <div class="input-box">
+                <label for="leaderEmail">Leader VIT Email</label>
+                <input type="email" id="leaderEmail" name="Leader VIT Email" placeholder="Enter your VIT Email" required>
+            </div>
+            <div class="input-box">
+                <label for="leaderPhone">Leader Phone No.</label>
+                <input type="tel" id="leaderPhone" name="Leader Phone No." placeholder="Enter your Phone No." required>
+            </div>
+            <div class="input-box">
+                <label id="teamSizeLabel" for="teamSize">Team Size</label>
+                <select id="teamSize" name="Team Size" required>
+                    <option value="">Select Team Size</option>
+                    <!-- <option value="1">1</option> -->
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </div>
+            <div id="teamMembers" class="input-box">
+                <h4>Team Member Details</h4>
+            </div>
+            <!-- <button type="submit" value="submit" name="submit">Submit</button> -->
+            <button class="button-27" value = "submit" name = "submit" role="button">Submit</button>
+        </form>
+    </section>
+    <script src="script.js"></script>
+</body>
+</html>
+
+
