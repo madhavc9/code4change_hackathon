@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Code4Change Hackathon - README</title>
-</head>
+
+<div align="center">
+  <img src="/bg_c4c.png" alt="c4c Logo" width="600">
+  <h3 align="center">🚀 Code4Change Hackathon</h3>
+  <p align="center">
+   A 36-hour Ideathon & Hackathon organized by IEEE-SSIT & CSED
+    <br />
+    <a href="https://madhavc9.github.io/Ant-Colony-Optimization-Simulator/" target="_blank"><strong> Live Website »</strong></a>
+  </p>
+</div>
+
+    
 <body>
     <h1>🚀 Code4Change Hackathon</h1>
     <p><strong>A 36-hour Ideathon & Hackathon organized by IEEE-SSIT & CSED</strong></p>
