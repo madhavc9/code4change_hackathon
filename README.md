@@ -4,32 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Code4Change Hackathon - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 20px;
-            background-color: #121212;
-            color: #ffffff;
-        }
-        h1, h2 {
-            color: #ffcc00;
-        }
-        a {
-            color: #4da8da;
-        }
-        .section {
-            margin-bottom: 20px;
-            padding: 15px;
-            background-color: #222222;
-            border-radius: 10px;
-        }
-        ul {
-            list-style-type: square;
-            padding-left: 20px;
-        }
-    </style>
 </head>
 <body>
     <h1>🚀 Code4Change Hackathon</h1>
