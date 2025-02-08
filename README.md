@@ -2,7 +2,7 @@
 <html lang="en">
 
 <div align="center">
-  <img src="./c4c_logo.png" alt="c4c_Logo" width="600">
+  <img src="/c4c _logo.png" alt="c4c_Logo" width="600">
   <h3 align="center">🚀 Code4Change Hackathon</h3>
   <p align="center">
    A 36-hour Ideathon & Hackathon organized by IEEE-SSIT & CSED
