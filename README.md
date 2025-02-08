@@ -110,7 +110,7 @@
         </ul>
     </div>
     <footer>
-        <p>💻 Made by <strong>Madhav Choudhary</strong> | Developed for IEEE-SSIT & CSED</p>
+        <p align="center">💻 Made by <strong>Madhav Choudhary</strong> | Developed for IEEE-SSIT & CSED</p>
     </footer>
 </body>
 </html>
