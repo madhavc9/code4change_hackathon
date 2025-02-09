@@ -2,7 +2,7 @@
 <html lang="en">
 
 <div align="center">
-  <img src="/c4c_logo.png" alt="c4c_Logo" width="600">
+  <img src="/c4c _logo.png" alt="c4c_Logo" width="600">
   <h3 align="center">🚀 Code4Change Hackathon</h3>
   <p align="center">
    A 36-hour Ideathon & Hackathon organized by IEEE-SSIT & CSED
@@ -10,7 +10,7 @@
     <a href="https://madhavc9.github.io/Ant-Colony-Optimization-Simulator/" target="_blank"><strong>Live Website »</strong></a>
   </p>
 </div>
-
+<hr>
 <body>
     <div class="section">
         <details>
@@ -20,6 +20,7 @@
             <p>Join us for a fresher-friendly <strong>SHARK TANK TWIST</strong> experience where creativity knows no bounds—let’s code for change! 💡🔥</p>
         </details>
     </div>  
+  <hr>
     <div class="section">
         <details>
             <summary>📅 Event Details</summary>
@@ -31,6 +32,7 @@
             </ul>
         </details>
     </div>
+  <hr>
     <div class="section">
         <details>
             <summary>🔹 Features</summary>
@@ -42,6 +44,7 @@
             </ul>
         </details>
     </div>
+  <hr>
     <div class="section">
         <details>
             <summary>🏆 Prizes & Awards</summary>
@@ -55,6 +58,7 @@
             </ul>
         </details>
     </div>
+  <hr>
     <div class="section">
         <details>
             <summary>📌 Event Schedule</summary>
@@ -66,6 +70,7 @@
             </ul>
         </details>
     </div>
+  <hr>
     <div class="section">
         <details>
             <summary>🎯 Hackathon Tracks</summary>
@@ -81,6 +86,7 @@
             </ul>
         </details>
     </div>
+  <hr>
     <div class="section">
         <details>
             <summary>📢 Sponsors</summary>
@@ -91,6 +97,7 @@
             </ul>
         </details>
     </div>
+  <hr>
     <div class="section">
         <details>
             <summary>❓ FAQs</summary>
@@ -102,6 +109,7 @@
             </ul>
         </details>
     </div>  
+  <hr>
     <div class="section">
         <details>
             <summary>🛠️ Tech Stack</summary>
@@ -112,10 +120,7 @@
             </ul>
         </details>
     </div>
-    <div class="section">
-        <h2>📜 License</h2>
-        <p>This project is licensed under the <strong>MIT License</strong> - feel free to modify and contribute!</p>
-    </div>
+<hr>
     <footer>
         <p align="center">💻 Made by <strong>Madhav Choudhary</strong> | Developed for IEEE-SSIT & CSED</p>
     </footer>
