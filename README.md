@@ -15,6 +15,7 @@
     <div class="section">
         <details>
             <summary>🌟 About The Hackathon</summary>
+          <br>
             <p>Welcome to <strong>Code4Change</strong>, where innovation meets impact! Our event emphasizes business models and ideation, welcoming participants of all coding levels. Whether you're seasoned or new, your ideas matter.</p>
             <p>With a 36-hour duration, including <strong>6+ hours for ideation</strong> and <strong>30+ hours for the hackathon</strong>, individuals from all branches collaborate, innovate, and make a difference.</p>
             <p>Join us for a fresher-friendly <strong>SHARK TANK TWIST</strong> experience where creativity knows no bounds—let’s code for change! 💡🔥</p>
@@ -24,6 +25,7 @@
     <div class="section">
         <details>
             <summary>📅 Event Details</summary>
+          <br>
             <ul>
                 <li><strong>🗓️ Dates:</strong> 19th March - 21st March 2024</li>
                 <li><strong>👥 Team Size:</strong> 2 to 5 members</li>
@@ -36,6 +38,7 @@
     <div class="section">
         <details>
             <summary>🔹 Features</summary>
+          <br>
             <ul>
                 <li>✨ Fully responsive <strong>HTML & CSS website</strong></li>
                 <li>📝 <strong>Single & Team Registration</strong> functionality</li>
@@ -48,6 +51,7 @@
     <div class="section">
         <details>
             <summary>🏆 Prizes & Awards</summary>
+          <br>
             <ul>
                 <li>💰 Cash Prizes</li>
                 <li>📈 Funding Opportunities</li>
@@ -62,6 +66,7 @@
     <div class="section">
         <details>
             <summary>📌 Event Schedule</summary>
+          <br>
             <ul>
                 <li>🟢 <strong>Phase 1:</strong> Registrations (Mar 14 - Mar 18)</li>
                 <li>💡 <strong>Phase 2:</strong> Ideation</li>
@@ -74,6 +79,7 @@
     <div class="section">
         <details>
             <summary>🎯 Hackathon Tracks</summary>
+          <br>
             <ul>
                 <li>💵 Finance</li>
                 <li>♻️ Circular Economy</li>
@@ -90,6 +96,7 @@
     <div class="section">
         <details>
             <summary>📢 Sponsors</summary>
+          <br>
             <ul>
                 <li>💡 Programming Hub</li>
                 <li>🚀 ALTAIR</li>
@@ -101,6 +108,7 @@
     <div class="section">
         <details>
             <summary>❓ FAQs</summary>
+          <br>
             <ul>
                 <li>🛠️ <strong>Who can participate?</strong> - Open to all students and professionals.</li>
                 <li>💵 <strong>How much does it cost?</strong> - Free registration!</li>
@@ -113,6 +121,7 @@
     <div class="section">
         <details>
             <summary>🛠️ Tech Stack</summary>
+          <br>
             <ul>
                 <li>🌐 <strong>HTML & CSS</strong> for front-end</li>
                 <li>📄 <strong>Static web pages</strong></li>
