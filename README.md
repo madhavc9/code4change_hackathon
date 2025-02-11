@@ -7,7 +7,7 @@
   <p align="center">
    A 36-hour Ideathon & Hackathon organized by IEEE-SSIT & CSED
     <br />
-    <a href="https://madhavc9.github.io/Ant-Colony-Optimization-Simulator/" target="_blank"><strong>Live Website »</strong></a>
+    <a href="https://madhavc9-code4change-hackathon.netlify.app/" target="_blank"><strong>Live Website »</strong></a>
   </p>
 </div>
 <hr>
